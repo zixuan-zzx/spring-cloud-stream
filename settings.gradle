@@ -1,2 +1,5 @@
 rootProject.name = 'spring-cloud-stream'
 include 'hello-streams'
+include 'functional'
+include 'functional'
+
